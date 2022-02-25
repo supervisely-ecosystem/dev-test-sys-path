@@ -1,0 +1,17 @@
+{
+    "name": "[dev] Test sys.path",
+    "type": "app",
+    "version": "2.0.0",
+    "categories": [
+      "development"
+    ],
+    "description": "test how agent run app",
+    "docker_image": "supervisely/base-py-sdk:6.7.10",
+    "main_script": "src/main.py",
+    "port": 8000, 
+    "task_location": "application_sessions",
+    "headless": true,
+    "icon": "https://img.icons8.com/external-fauzidea-flat-fauzidea/100/000000/external-sys-file-file-extension-fauzidea-flat-fauzidea.png",
+    "integrated_into": ["panel"],
+    "icon_background": "#FFFFFF"
+  }
