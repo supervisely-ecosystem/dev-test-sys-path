@@ -11,7 +11,7 @@
   "port": 8000,
   "task_location": "application_sessions",
   "headless": true,
-  "icon": "https://img.icons8.com/external-fauzidea-flat-fauzidea/100/000000/external-sys-file-file-extension-fauzidea-flat-fauzidea.png",
+  "icon": "https://github.com/supervisely-ecosystem/dev-test-sys-path/assets/48245050/3b03bc35-1a6d-43dd-ade6-085720e79271",
   "integrated_into": [
     "panel"
   ],
